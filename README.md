@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `alert-router_safe.os` — the correct design.
-- `alert-router_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `alert-router_safe.wave` — the correct design.
+- `alert-router_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
